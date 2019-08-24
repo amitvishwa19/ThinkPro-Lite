@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8C21C24-C223-4D4D-AAEA-74F271EBDBB1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ThinkProlite.My.MyApplication</StartupObject>
+    <RootNamespace>ThinkProlite</RootNamespace>
+    <AssemblyName>ThinkProLite</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>a35219f3</NuGetPackageImportStamp>
+    <PublishUrl>\\10.229.73.29\data_timesheet\TCS_Files\ThinkPro_Lite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <WebPage>publish.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>210</ApplicationRevision>
+    <ApplicationVersion>1.0.0.210</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ThinkProLite.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ThinkProLite.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DE643C553D1FEAC15206455F6C067068E4022D84</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ThinkProLite_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ThinkProIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView">
+      <HintPath>..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>..\packages\EPPlus.4.1.0\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>..\packages\Mono.Security.3.2.3.0\lib\net45\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="npgsql">
+      <HintPath>..\..\..\npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Threading.Tasks.Extensions">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.4.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App Consent\Application Consent.Designer.vb">
+      <DependentUpon>Application Consent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\Application Consent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\AppProcess.Designer.vb">
+      <DependentUpon>AppProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\AppProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\cfunctions.vb" />
+    <Compile Include="App Consent\MapApplications.Designer.vb">
+      <DependentUpon>MapApplications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\MapApplications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\NewUser.Designer.vb">
+      <DependentUpon>NewUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\NewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\PIFields.Designer.vb">
+      <DependentUpon>PIFields.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\PIFields.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\App Consent Admin.Designer.vb">
+      <DependentUpon>App Consent Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\App Consent Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\dbconnect.vb" />
+    <Compile Include="App Consent\NewApplication.Designer.vb">
+      <DependentUpon>NewApplication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\NewApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\ProcessApplications.Designer.vb">
+      <DependentUpon>ProcessApplications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\ProcessApplications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\Revoke Consent.Designer.vb">
+      <DependentUpon>Revoke Consent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\Revoke Consent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App Consent\Upload.Designer.vb">
+      <DependentUpon>Upload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="App Consent\Upload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="classes\AccessConnect.vb" />
+    <Compile Include="classes\AppStartup.vb" />
+    <Compile Include="classes\DataRetention.vb" />
+    <Compile Include="classes\SysFunctions.vb" />
+    <Compile Include="classes\User.vb" />
+    <Compile Include="classes\Encryption.vb" />
+    <Compile Include="classes\EPPClass.vb" />
+    <Compile Include="classes\EppGridExport.vb" />
+    <Compile Include="classes\ErrorLogger.vb" />
+    <Compile Include="classes\EventLogger.vb" />
+    <Compile Include="classes\LoginReg.vb" />
+    <Compile Include="classes\pgConnect.vb" />
+    <Compile Include="Includes\AppEvents.vb" />
+    <Compile Include="Includes\AppInit.vb" />
+    <Compile Include="Includes\Crypto.vb" />
+    <Compile Include="Includes\Functions.vb" />
+    <Compile Include="Includes\TpTimer.vb" />
+    <Compile Include="Login\ChangePassword.Designer.vb">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\PasswordManagement.Designer.vb">
+      <DependentUpon>PasswordManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\PasswordManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\ProfileSelector.Designer.vb">
+      <DependentUpon>ProfileSelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\ProfileSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\ProjectCreator.Designer.vb">
+      <DependentUpon>ProjectCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\ProjectCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Registration.Designer.vb">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\ThinkProfiles.Designer.vb">
+      <DependentUpon>ThinkProfiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\ThinkProfiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\UnlockAccount.Designer.vb">
+      <DependentUpon>UnlockAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login\UnlockAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\AppFunctions.vb" />
+    <Compile Include="Module\AppSetup.vb" />
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\Old_ThinkSetup.Designer.vb">
+      <DependentUpon>Old_ThinkSetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\Old_ThinkSetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setup\Setup.Designer.vb">
+      <DependentUpon>Setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\Setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Issue Logger\IssueLogger.Designer.vb">
+      <DependentUpon>IssueLogger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Issue Logger\IssueLogger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Issue Logger\NewIssueLog.Designer.vb">
+      <DependentUpon>NewIssueLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Issue Logger\NewIssueLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ChangeTeam.Designer.vb">
+      <DependentUpon>ChangeTeam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ChangeTeam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ManagementSetting.Designer.vb">
+      <DependentUpon>ManagementSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ManagementSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ProjectSetting.Designer.vb">
+      <DependentUpon>ProjectSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ProjectSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\Utilization\ActivityUtilazation.Designer.vb">
+      <DependentUpon>ActivityUtilazation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\Utilization\ActivityUtilazation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TeamView\BreakLockDetails.Designer.vb">
+      <DependentUpon>BreakLockDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TeamView\BreakLockDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ExtendedHours\ExtendedHoursR.Designer.vb">
+      <DependentUpon>ExtendedHoursR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ExtendedHours\ExtendedHoursR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TeamView\MasterTimeUpdate.Designer.vb">
+      <DependentUpon>MasterTimeUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TeamView\MasterTimeUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TeamView\MasterUpdate.Designer.vb">
+      <DependentUpon>MasterUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TeamView\MasterUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ShiftCompliance\ShiftCompliance.Designer.vb">
+      <DependentUpon>ShiftCompliance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ShiftCompliance\ShiftCompliance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TeamView\TeamView.Designer.vb">
+      <DependentUpon>TeamView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TeamView\TeamView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\ThinkManagement.Designer.vb">
+      <DependentUpon>ThinkManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\ThinkManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\UserManagement\UserManagement.Designer.vb">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\UserManagement\UserManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\WorkflowManagement\WorkflowManagement.Designer.vb">
+      <DependentUpon>WorkflowManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\WorkflowManagement\WorkflowManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkBot\BotBubble.Designer.vb">
+      <DependentUpon>BotBubble.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkBot\BotBubble.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkBot\ThinkBot.Designer.vb">
+      <DependentUpon>ThinkBot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkBot\ThinkBot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPoll\ThinkProPoll.Designer.vb">
+      <DependentUpon>ThinkProPoll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkPoll\ThinkProPoll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TimeActivity\TimeViewActivityEditor.Designer.vb">
+      <DependentUpon>TimeViewActivityEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TimeActivity\TimeViewActivityEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\TimeActivity\TimeViewActivityManager.Designer.vb">
+      <DependentUpon>TimeViewActivityManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\TimeActivity\TimeViewActivityManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\Utilization\UtilizationGrid.Designer.vb">
+      <DependentUpon>UtilizationGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\Utilization\UtilizationGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Think Management\WindowActivity\WinActivityViewer.Designer.vb">
+      <DependentUpon>WinActivityViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Think Management\WindowActivity\WinActivityViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPoll\CreatePoll.Designer.vb">
+      <DependentUpon>CreatePoll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkPoll\CreatePoll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPro\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkPro\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPro\Consent.Designer.vb">
+      <DependentUpon>Consent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkPro\Consent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPro\Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPro\Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkNotify\ThinkNotify.Designer.vb">
+      <DependentUpon>ThinkNotify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkNotify\ThinkNotify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkPoll\ThinkPoll.Designer.vb">
+      <DependentUpon>ThinkPoll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkPoll\ThinkPoll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkTools\DataTransfer.Designer.vb">
+      <DependentUpon>DataTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkTools\DataTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThinkTools\ErrorLog.Designer.vb">
+      <DependentUpon>ErrorLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ThinkTools\ErrorLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time View\ActivitySelector.Designer.vb">
+      <DependentUpon>ActivitySelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time View\ActivitySelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time View\BreakPopup.Designer.vb">
+      <DependentUpon>BreakPopup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time View\BreakPopup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time View\SummaryEdit.Designer.vb">
+      <DependentUpon>SummaryEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time View\SummaryEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time View\TimeSummary.Designer.vb">
+      <DependentUpon>TimeSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time View\TimeSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time View\TimeView.Designer.vb">
+      <DependentUpon>TimeView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Time View\TimeView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="App Consent\Application Consent.resx">
+      <DependentUpon>Application Consent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\AppProcess.resx">
+      <DependentUpon>AppProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\MapApplications.resx">
+      <DependentUpon>MapApplications.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\NewUser.resx">
+      <DependentUpon>NewUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\PIFields.resx">
+      <DependentUpon>PIFields.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\App Consent Admin.resx">
+      <DependentUpon>App Consent Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\NewApplication.resx">
+      <DependentUpon>NewApplication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\ProcessApplications.resx">
+      <DependentUpon>ProcessApplications.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\Revoke Consent.resx">
+      <DependentUpon>Revoke Consent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App Consent\Upload.resx">
+      <DependentUpon>Upload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\ChangePassword.resx">
+      <DependentUpon>ChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\PasswordManagement.resx">
+      <DependentUpon>PasswordManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\ProfileSelector.resx">
+      <DependentUpon>ProfileSelector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\ProjectCreator.resx">
+      <DependentUpon>ProjectCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Registration.resx">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\ThinkProfiles.resx">
+      <DependentUpon>ThinkProfiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\UnlockAccount.resx">
+      <DependentUpon>UnlockAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\Old_ThinkSetup.resx">
+      <DependentUpon>Old_ThinkSetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setup\Setup.resx">
+      <DependentUpon>Setup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Issue Logger\IssueLogger.resx">
+      <DependentUpon>IssueLogger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Issue Logger\NewIssueLog.resx">
+      <DependentUpon>NewIssueLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ChangeTeam.resx">
+      <DependentUpon>ChangeTeam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ManagementSetting.resx">
+      <DependentUpon>ManagementSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ProjectSetting.resx">
+      <DependentUpon>ProjectSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\Utilization\ActivityUtilazation.resx">
+      <DependentUpon>ActivityUtilazation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TeamView\BreakLockDetails.resx">
+      <DependentUpon>BreakLockDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ExtendedHours\ExtendedHoursR.resx">
+      <DependentUpon>ExtendedHoursR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TeamView\MasterTimeUpdate.resx">
+      <DependentUpon>MasterTimeUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TeamView\MasterUpdate.resx">
+      <DependentUpon>MasterUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ShiftCompliance\ShiftCompliance.resx">
+      <DependentUpon>ShiftCompliance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TeamView\TeamView.resx">
+      <DependentUpon>TeamView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\ThinkManagement.resx">
+      <DependentUpon>ThinkManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\UserManagement\UserManagement.resx">
+      <DependentUpon>UserManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\WorkflowManagement\WorkflowManagement.resx">
+      <DependentUpon>WorkflowManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkBot\BotBubble.resx">
+      <DependentUpon>BotBubble.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkBot\ThinkBot.resx">
+      <DependentUpon>ThinkBot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPoll\ThinkProPoll.resx">
+      <DependentUpon>ThinkProPoll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TimeActivity\TimeViewActivityEditor.resx">
+      <DependentUpon>TimeViewActivityEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\TimeActivity\TimeViewActivityManager.resx">
+      <DependentUpon>TimeViewActivityManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\Utilization\UtilizationGrid.resx">
+      <DependentUpon>UtilizationGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Think Management\WindowActivity\WinActivityViewer.resx">
+      <DependentUpon>WinActivityViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPoll\CreatePoll.resx">
+      <DependentUpon>CreatePoll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPro\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPro\Consent.resx">
+      <DependentUpon>Consent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPro\Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkNotify\ThinkNotify.resx">
+      <DependentUpon>ThinkNotify.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkPoll\ThinkPoll.resx">
+      <DependentUpon>ThinkPoll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkTools\DataTransfer.resx">
+      <DependentUpon>DataTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThinkTools\ErrorLog.resx">
+      <DependentUpon>ErrorLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time View\ActivitySelector.resx">
+      <DependentUpon>ActivitySelector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time View\BreakPopup.resx">
+      <DependentUpon>BreakPopup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time View\SummaryEdit.resx">
+      <DependentUpon>SummaryEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time View\TimeSummary.resx">
+      <DependentUpon>TimeSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Time View\TimeView.resx">
+      <DependentUpon>TimeView.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="AppConfig\App.config" />
+    <None Include="ThinkProLite_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AppConfig\packages.config" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Resources\GreayBAck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppConfig.txt" />
+    <Content Include="appicon.ico" />
+    <Content Include="AppOption.txt" />
+    <None Include="Resources\settingspng.png" />
+    <Content Include="ThinkProIcon.ico" />
+    <None Include="Resources\MSHome.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

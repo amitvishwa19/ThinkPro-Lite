@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\10.229.73.29\data_timesheet\TCS_Files\ThinkPro_Lite\|\\10.229.73.29\data_timesheet\TCS_Files\TP_Consent\|\\10.229.112.35\Data_IDC\ThnikPro\ThinkProLite_new\|\\10.229.112.35\Data_IDC\ThnikPro\ThinkProLite\|C:\Users\side7001\Desktop\ThinkPro_lite_22-5\</PublishUrlHistory>
+    <InstallUrlHistory>\\10.229.112.35\Data_IDC\ThnikPro\ThinkProLite\|\\10.229.64.100\NA_Buy_Baroda\One_Production\Thinkprolite\|\\10.229.73.29\data_timesheet\ThinkproLite\|\\10.229.73.29\data_timesheet\ThinkproLite_New\|\\10.229.112.35\DATA_TNC_Report Center\DATA_GRC\Central Trackers\ThinkPro\ThinkProLite\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\10.229.112.35\Data_IDC\ThnikPro\ThinkProLite\|\\10.229.73.29\data_timesheet\ThinkproLite_New\|\\10.229.73.29\data_timesheet\ThinkproLite\|\\10.229.73.29\common\Global Content MOM\Thinkpro\|\\10.229.73.29\data_timesheet\ThinkproLiteUpdate\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

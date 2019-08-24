@@ -1,0 +1,725 @@
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPro.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro_DLL\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTracker.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPro.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTracker.resources
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\singja06\Desktop\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Register.resources
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Register.resources
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPro.resources
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTracker.resources
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\MySql.Data.dll
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Jaideep_Personal\Jaideep_Personal\Think Pro\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\MySql.Data.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Register.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPro.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTrack.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TrackDesign.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\obj\Debug\ThinkPro_lite.DBSetup.resources
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\AppDB.mdf
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\AppDB_log.ldf
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\x64\tesseract.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\x86\tesseract.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\configs\config.cfg
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.bigrams
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.fold
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.lm
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.nn
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.params
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.size
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.cube.word-freq
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\eng.traineddata
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\pdf.ttf
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\tessdata\pdf.ttx
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\Patagames.Ocr.dll
+C:\Users\side7001\Desktop\Thinkpro\ThinkPro lite\ThinkPro lite\bin\Debug\Patagames.Ocr.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\x64\tesseract.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\x86\tesseract.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\configs\config.cfg
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.bigrams
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.fold
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.lm
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.nn
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.params
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.size
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.cube.word-freq
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.tesseract_cube.nn
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\eng.traineddata
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\pdf.ttf
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tessdata\pdf.ttx
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\AppDB.mdf
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\AppDB_log.ldf
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.UI.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.UI.GL.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.World.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\EPPlus.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Mono.Security.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\MySql.Data.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\OpenTK.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\OpenTK.GLControl.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Patagames.Ocr.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ZedGraph.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.UI.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.UI.GL.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Emgu.CV.World.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\EPPlus.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\OpenTK.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\OpenTK.GLControl.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\Patagames.Ocr.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ZedGraph.xml
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\de\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\es\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\fr\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\hu\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\it\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ja\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\pt\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\ru\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\sk\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\sv\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\tr\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkOCR.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.Register.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPro.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTrack.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.TrackDesign.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.ConnSetup.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.AddColumn.resources
+E:\My Projects\thinkProlite\ThinkPro lite\obj\Debug\ThinkPro_lite.sqlWindow.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\MySql.Data.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ZedGraph.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ZedGraph.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Loading.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.frmLogin.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.AddColumn.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.DelColumn.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.sqlWindow.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTrack.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TrackDesign.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.cache
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CoreCompileInputs.cache
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CopyComplete
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AIMLbot.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AIMLbot.pdb
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.popup.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\vishwa\Desktop\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\AIMLbot.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\MySql.Data.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ZedGraph.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\AIMLbot.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ZedGraph.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.Loading.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.frmLogin.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.AddColumn.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.DelColumn.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.sqlWindow.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.popup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkTrack.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro_lite.TrackDesign.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Copy\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\AIMLbot.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\MySql.Data.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ZedGraph.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\AIMLbot.pdb
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ZedGraph.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBulletin.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.popup.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+C:\Users\side7001\Desktop\My Projects\thinkpro-lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBulletin.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.popup.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.cache
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CoreCompileInputs.cache
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\EPPlus.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\Mono.Security.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\EPPlus.xml
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+D:\MyProjects\ThinkPro-Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CopyComplete
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivityUtilazation.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakLockDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ExtendedHoursR.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ShiftCompliance.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TeamView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.UserManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityManager.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.UtilizationGrid.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.WinActivityViewer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkNotify.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivitySelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakPopup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkPro Lite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkSetup.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivityUtilazation.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakLockDetails.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ExtendedHoursR.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterUpdate.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ShiftCompliance.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TeamView.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.UserManagement.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProPoll.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityManager.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.UtilizationGrid.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.WinActivityViewer.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkNotify.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivitySelector.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakPopup.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.cache
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CoreCompileInputs.cache
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\Mono.Security.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.xml
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.CopyComplete
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Dashboard.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BotBubble.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ErrorLog.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.WorkflowManagement.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.About.resources
+D:\MyProjects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ConnectionSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivityUtilazation.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakLockDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ExtendedHoursR.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ShiftCompliance.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TeamView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.UserManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.WorkflowManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BotBubble.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityManager.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.UtilizationGrid.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.WinActivityViewer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.About.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ConnectionSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkNotify.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ErrorLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivitySelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakPopup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.vbprojResolveAssemblyReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivityUtilazation.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakLockDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ExtendedHoursR.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ShiftCompliance.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TeamView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.UserManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.WorkflowManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BotBubble.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityManager.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.UtilizationGrid.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.WinActivityViewer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.About.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ConnectionSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkNotify.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ErrorLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivitySelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakPopup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite - Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Dashboard.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\EPPlus.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe.config
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.pdb
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\AdvancedDataGridView.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\EPPlus.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\Mono.Security.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\AdvancedDataGridView.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.ResolveComReference.cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MyDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.PasswordManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ProfileSelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ProjectCreator.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Registration.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MyProfile.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProfiles.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.IssueLogger.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.NewIssueLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Dashboard.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivityUtilazation.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakLockDetails.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ExtendedHoursR.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterTimeUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.MasterUpdate.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ShiftCompliance.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TeamView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.UserManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.WorkflowManagement.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BotBubble.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkBot.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkProPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityEditor.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeViewActivityManager.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.UtilizationGrid.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.WinActivityViewer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.CreatePoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.About.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ConnectionSetup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Home.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Resources.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.Setup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkNotify.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ThinkPoll.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.DataTransfer.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ErrorLog.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.ActivitySelector.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.BreakPopup.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.SummaryEdit.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeSummary.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro_lite.TimeView.resources
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.vbproj.GenerateResource.Cache
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.exe.manifest
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.application
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.exe
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.xml
+C:\Users\side7001\Desktop\My Projects\ThinkProLite_Dev\ThinkPro lite\obj\Debug\ThinkPro lite.pdb
